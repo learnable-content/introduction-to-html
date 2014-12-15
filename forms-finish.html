@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Form Tags</title>
+</head>
+<body>
+
+<form action="#">
+	<fieldset>
+
+		<legend>Contact Info</legend>
+		
+		<div>
+			<label for="name">Name</label>
+			<input type="text" name="name" id="name" placeholder="Your Name" autofocus>
+		</div>
+
+		<div>
+			<label for="email">E-mail</label>
+			<input type="email" name="email" id="email" required>
+		</div>
+
+		<div>
+			<label for="tel">Telephone</label>
+			<input type="tel" name="tel" id="tel">
+		</div>
+		
+		<div>
+			<label for="city">City</label>
+			<input type="text" name="city" id="city">
+		</div>
+
+		<div>
+			<label for="state">State</label>
+			<select name="state" id="state">
+				<option value="">-- Choose --</option>
+				<optgroup label="Country 1">
+					<option value="">State 1</option>
+					<option value="">State 2</option>
+					<option value="">State 3</option>
+				</optgroup>
+				<optgroup label="Country 2">
+					<option value="">State 4</option>
+					<option value="">State 5</option>
+					<option value="">State 6</option>
+				</optgroup>
+				<option value="">State 7</option>
+				<option value="">State 8</option>
+				<option value="">State 9</option>
+			</select>
+		</div>
+
+	</fieldset>
+	<fieldset>
+	
+		<legend>Other Info</legend>
+		
+		<div>
+			<label>Gender</label>
+			<label>
+				<input type="radio" name="gender" value="m"> M
+			</label>
+			<label>
+				<input type="radio" name="gender" value="f"> F
+			</label>
+		</div>
+
+		<div>
+			<label>Experience</label>
+			<label>
+				<input type="checkbox" name="experience" value="1"> Option 1
+			</label>
+			<label>
+				<input type="checkbox" name="experience" value="2"> Option 2
+			</label>
+			<label>
+				<input type="checkbox" name="experience" value="3"> Option 3
+			</label>
+		</div>
+
+		<div>
+			<label for="file">CV</label>
+			<input type="file" name="file" id="file">
+		</div>
+
+		<div>
+			<label for="message">Message</label>
+			<textarea name="message" id="message" cols="30" rows="10"></textarea>
+		</div>
+
+		<fieldset>
+			<input type="submit" value="Send">
+
+			<button type="submit">
+				Send
+			</button>
+		</fieldset>
+
+	</fieldset>
+</form>
+	
+</body>
+</html>
