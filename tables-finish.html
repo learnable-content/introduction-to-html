@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Table Tags</title>
+
+	<style>
+		table, th, td {
+			border: 1px solid #666;
+			border-collapse: collapse;
+		}
+	</style>
+</head>
+<body>
+
+<table>
+	<caption>
+		Shopping cart
+	</caption>
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Subtotal</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Product 1</td>
+			<td>$10.00</td>
+			<td>2</td>
+			<td>$20.00</td>
+		</tr>
+		<tr>
+			<td>Product 2</td>
+			<td>$5.00</td>
+			<td>1</td>
+			<td>$5.00</td>
+		</tr>
+		<tr>
+			<td colspan="3">Shipping and Handling</td>
+			<td>$5.00</td>
+		</tr>
+		<tr>
+			<td rowspan="2" colspan="3">Discount</td>
+			<td>10%</td>
+		</tr>
+		<tr>
+			<td>- $3.00</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				Grand total
+			</td>
+			<td>
+				$27.00
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+</body>
+</html>
