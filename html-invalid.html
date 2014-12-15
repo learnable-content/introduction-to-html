@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Invalid code example</title>
+</head>
+<body>
+
+<!-- Invalid: style tag out of the head tag - the style tag CAN be used inside the body tag, but with the "scoped" attribute, which is not very wlel supported yet. More information here: http://html5doctor.com/the-scoped-attribute/ -->
+<style>
+	body {
+		background: #EEE;
+	}
+</style>
+
+<p>
+	Invalid: text with <strong><span>improper nesting</strong></span>
+</p>
+
+<span>
+	<p>
+		Invalid: span containing p tag. Inline tags cannot contain block tags (except the <code>a</code> tag). Inline tags include <code>span</code>, <code>em</code>, <code>strong</code>. Block tags include <code>div</code>, <code>section</code> (and all other structural tags), <code>h1</code> to <code>h6</code> and lists (<code>ul</code>, <code>ol</code>).
+	</p>
+</span>
+
+<invalid>Invalid: non-existent tag</invalid>
+
+<div>
+	Invalid: div lacking closing tag
+
+<p>Valid: some tags do not necessarily need a closing tag (though it's best practice to close all tags). These tags include <code>p</code> and <code>li</code>.
+
+<p id=example>
+	Valid: attribute values (with one word) without quotes (though it's best practice to quote all attributes).
+</p>
+
+	
+</body>
+</html>
