@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HTML Entities and Page Encoding</title>
+</head>
+<body>
+
+<p>
+	Symbols like á, é, í, ã, õ, ç will only appear correctly in the page if the file encoding matches the meta charset tag's declared encoding. This file is saved in UTF-8 (Unicode) and the meta charset tag specifies UTF-8 as the page's encoding. 
+</p>
+
+<p>
+	If you are unsure of the encoding needed or if you want to use symbols not easily accessible using the keyboard, you can use <strong>HTML entities</strong>.
+</p>
+
+<p>
+	Entities start with an ampersand (&amp;) and end with a semicolon ';'. For example, <code>&amp;copy;</code> will output &copy;.
+</p>
+
+<p>
+	Examples:
+</p>
+<ul>
+	<li>&copy;</li>
+	<li>&amp; : amp = ampersand</li>
+	<li>&lt; : lt = less than</li>
+	<li>&gt; : gt = greater than</li>
+	<li>&aacute; : letter 'a' with acute sign</li>
+	<li>&atilde; : letter 'a' with tilde</li>
+	<li>&ccedil; : letter 'c' with cedil</li>
+	<li>&hearts; : hearts</li>
+	<li>&clubs; : clubs</li>
+</ul>
+
+<p>
+	And many more. <a href="http://dev.w3.org/html5/html-author/charref">More information here</a>.
+</p>
+	
+</body>
+</html>
