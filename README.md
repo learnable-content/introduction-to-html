@@ -1,7 +1,7 @@
 ![](/headers/head1.1.jpg)
 # Introduction
 
-Welcome to Introduction to HTML course.
+Welcome to [Introduction to HTML](https://www.sitepoint.com/premium/courses/introduction-to-html-2897) course.
 
 **HTML** is the markup language of the Internet: every website uses it in one way or another. It's a simple but powerful language that is used to structure and define content. And now we are at an exciting time when the new version of HTML, HTML5, has very good support across browsers and brings great opportunities for web development.
 
