@@ -1,4 +1,4 @@
-![](headers/head5.1.jpg)
+![](Introduction_to_HTML_handouts/headers/head5.1.jpg)
 # Introduction
 
 In this lesson, we are going to review the differences between HTML versions and talk about why it's best to use HTML5 today. In most cases, there is no good reason to use earlier versions of HTML but it's important to know how we got here.
