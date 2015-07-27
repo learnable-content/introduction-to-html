@@ -1,4 +1,4 @@
-![](headers/head4.4.jpg)
+![](Introduction_to_HTML_handouts/headers/head4.4.jpg)
 # Introduction
 
 In this lesson you are going to discover the main form tags and practice by building a simple contact form. To prepare for the lesson open the *"forms-begin.html"* file in the editor and in the browser. Inside we have a sample contact/job application form.
