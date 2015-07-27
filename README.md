@@ -1,4 +1,4 @@
-![](headers/head3.5.jpg)
+![](Introduction_to_HTML_handouts/headers/head3.5.jpg)
 # Introduction
 
 In this lesson we are going to overview some complementary text tags that can be useful in a variety of situations. To prepare for the lesson you may either open up the *"othertags-finish.html"* file that has all the completed examples or the *"othertags-begin.html"* if you wish to play with the tags yourself.
