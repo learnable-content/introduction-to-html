@@ -1,4 +1,4 @@
-![](headers/head5.2.jpg)
+![](Introduction_to_HTML_handouts/headers/head5.2.jpg)
 # Introduction
 
 In this lesson we are going to see the importance of code validation and having clear and semantic code. Not all problems are solved with validation, but a valid HTML file is a good place to start.
