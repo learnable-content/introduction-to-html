@@ -1,4 +1,4 @@
-![](headers/head4.5.jpg)
+![](Introduction_to_HTML_handouts/headers/head4.5.jpg)
 # Introduction
 
 In this lesson we'll talk about the importance of page encoding and how to represent special characters in HTML using HTML entities. To prepare for the lesson open up the *"htmlentities-finish.html"* file or the *"htmlentities-begin.html"* if you want to test your own examples.
