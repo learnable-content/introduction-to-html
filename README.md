@@ -1,4 +1,4 @@
-![](headers/head4.3.jpg)
+![](Introduction_to_HTML_handouts/headers/head4.3.jpg)
 # Introduction
 
 In this lesson you are going to learn how to create tables using the `table` tag and other related tags. Open up the *"tables-begin.html"* file in the editor and in the browser to prepare for this lesson. You can see that there is already some content inside: it's a simple shopping cart.
