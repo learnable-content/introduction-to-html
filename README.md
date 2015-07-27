@@ -1,4 +1,4 @@
-![](headers/head2.1.jpg)
+![](Introduction_to_HTML_handouts/headers/head2.1.jpg)
 # Introduction
 
 In this lesson we are going to talk about what HTML is, what it is used for and its main concepts.
