@@ -1,4 +1,4 @@
-![](headers/head5.3.jpg)
+![](Introduction_to_HTML_handouts/headers/head5.3.jpg)
 # Introduction
 
 In this lesson you are going to learn some testing techniques and tools that can be used to identify and solve problems in the code. One of the ways to make the code better is by validating it like we saw in the previous lesson. We are going to look at some additional tools now.
