@@ -1,4 +1,4 @@
-![](headers/head3.2.jpg)
+![](Introduction_to_HTML_handouts/headers/head3.2.jpg)
 # Introduction
 
 In this lesson you are going to learn how to include images in a document. To prepare for the lesson open up the file named *"images-begin.html"* provided in the lesson files. It already has the basic HTML structure within the body tag. Also note the *"picture.jpg"* file in the same folder.
