@@ -1,4 +1,4 @@
-![](headers/head3.4.jpg)
+![](Introduction_to_HTML_handouts/headers/head3.4.jpg)
 # Introduction
 
 In this lesson, we are going to use the anchor tag to create links to other pages and to the sections on the same page. To prepare for the lesson open up the *"links-begin.html"* file. There are also three other files: *"test.html"*, another *"test.html"* inside the folder called *"folder"* and a *"picture.jpeg"* file. Let's try to create a link to this first *"test.html"* file located in the same folder as our "links-begin.html" file.
