@@ -1,4 +1,4 @@
-![](headers/head3.3.jpg)
+![](Introduction_to_HTML_handouts/headers/head3.3.jpg)
 # Introduction
 
 In this lesson we are going to learn how to create **lists** with HTML. To prepare for this lesson open up the file named *"lists-begin.html"* provided in the lesson files.
