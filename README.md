@@ -1,4 +1,4 @@
-![](headers/head6.1.jpg)
+![](Introduction_to_HTML_handouts/headers/head6.1.jpg)
 # Conclusion
 
 You've come to the end of this course. Thanks you for your attention and patience!
