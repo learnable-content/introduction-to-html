@@ -1,4 +1,4 @@
-![](headers/head4.1.jpg)
+![](Introduction_to_HTML_handouts/headers/head4.1.jpg)
 # Introduction
 
 In this lesson we are going to learn about the main tags that can be used inside the `head` tag. To prepare for the lesson open the *"head-begin.html"* file.
