@@ -1,4 +1,4 @@
-![](headers/head4.2.jpg)
+![](Introduction_to_HTML_handouts/headers/head4.2.jpg)
 # Introduction
 
 In this lesson we're going to learn how to use tags to structure content. To prepare for the lesson open up the *"structural-begin.html"* file.
