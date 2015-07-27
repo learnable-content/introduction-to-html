@@ -1,4 +1,4 @@
-![](headers/head3.1.jpg)
+![](Introduction_to_HTML_handouts/headers/head3.1.jpg)
 # Introduction
 
 In this lesson we will review the main HTML tags used to mark up text. To prepare for this lesson open up the file *texttags-begin.html* provided in the lesson files. This file is already using the basic structure we have defined in the previous lesson. Also, there is some content in the body ready to be tagged. Open this file in the browser as well.
