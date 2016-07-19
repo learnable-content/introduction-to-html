@@ -3,7 +3,7 @@
 
 In this lesson we are going to see the importance of code validation and having clear and semantic code. Not all problems are solved with validation, but a valid HTML file is a good place to start.
 
-Open up the *"html-invalid.html"* file to prepare for the lesson. Also visit the [http://validator.wc3.org](http://validator.wc3.org) page that presents a free online validator by W3C. It can be used to validate files by the URI, by file upload or by direct input.
+Open up the *"html-invalid.html"* file to prepare for the lesson. Also visit the [https://validator.w3.org](https://validator.w3.org) page that presents a free online validator by W3C. It can be used to validate files by the URI, by file upload or by direct input.
 
 # Overview of some common coding mistakes
 
